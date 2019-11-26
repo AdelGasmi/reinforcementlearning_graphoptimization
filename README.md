@@ -8,5 +8,7 @@ Arriving to point B from a point A in a graph (with different paths offering dif
 Using Reinforcement Learning: Q-Learning
 
 ## Used packages
-```Programming language: Python (version 2.7).```
-```Modules used: numpy, matplotlib.pyplot, networkx (for graph visualization).```
+```*Python (version 2.7).
+*Modules used: numpy
+*matplotlib.pyplot
+*networkx (for graph visualization).```
